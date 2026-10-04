@@ -1,6 +1,16 @@
 # ScrollScrub — AURA X1
 
-Démo de présentation produit : les pièces d’un casque s’assemblent pendant le défilement. AURA X1 est le concept visuel de cette expérience, pas une boutique ni un produit commercial livré.
+## En bref
+
+**Ce que c’est :** une démo de présentation produit dans laquelle les pièces d’un casque s’assemblent pendant le défilement.
+
+**À quoi elle sert :** montrer comment synchroniser une animation de produit avec la progression de la page.
+
+**Ce qui a été réalisé :** onze couches PNG, positions de départ et d’arrivée, états casque éclaté et assemblé, défilement et respect du mode réduit.
+
+**Technologies :** Vite, JavaScript, Canvas 2D, GSAP et ScrollTrigger.
+
+AURA X1 est un concept visuel pour la démo, pas une boutique ni un produit commercial livré.
 
 ![Début de l’animation](docs/screenshots/intro.png)
 
