@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#09070E" />
+    <link rel="stylesheet" href="./src/style.css" />
+    <title>AURA X1 — Forme en mouvement</title>
+  </head>
+  <body>
+    <main>
+      <section class="film" aria-label="AURA X1 assembly film">
+        <canvas id="sequence" aria-hidden="true"></canvas>
+        <div class="grain" aria-hidden="true"></div>
+        <div class="topline" aria-label="AURA X1">AURA / X1</div>
+        <div class="progress" aria-hidden="true"><span></span></div>
+
+        <div class="copy copy-intro" data-copy="intro">
+          <p>11 PIÈCES. UN OBJET.</p>
+          <h1>FORME EN<br />MOUVEMENT</h1>
+        </div>
+        <div class="copy copy-engineered" data-copy="engineered">
+          <h2>INGÉNIERIE</h2>
+          <p>ALUMINIUM / TEXTILE / SON</p>
+        </div>
+        <div class="copy copy-matters" data-copy="matters">
+          <h2>CHAQUE PIÈCE<br />COMPTE.</h2>
+        </div>
+        <div class="copy copy-system" data-copy="system">
+          <p>UN SYSTÈME.</p>
+          <h2>AURA X1</h2>
+        </div>
+
+        <div class="status" aria-live="polite"><span class="status-dot"></span><span id="status-text">Loading assembly</span></div>
+      </section>
+
+      <section class="after-film" id="discover">
+        <div class="after-film__line"></div>
+        <p>PUIS RECONSTRUIT.</p>
+        <h2>CONÇU POUR<br />ÊTRE DÉMONTÉ.</h2>
+        <a href="#discover" class="discover">DÉCOUVRIR AURA X1 <span aria-hidden="true">↗</span></a>
+      </section>
+    </main>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

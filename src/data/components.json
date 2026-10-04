@@ -1,0 +1,13 @@
+[
+  {"id":"left-shell","file":"/assets/components/01-left-shell.png","source":{"x":48,"y":364,"width":52,"height":386,"centerX":74,"centerY":557},"target":{"x":578,"y":404,"width":232,"height":356}},
+  {"id":"left-hinge","file":"/assets/components/02-left-hinge.png","source":{"x":236,"y":344,"width":104,"height":266,"centerX":288,"centerY":477},"target":{"x":562,"y":343,"width":64,"height":176}},
+  {"id":"left-driver","file":"/assets/components/03-left-driver.png","source":{"x":342,"y":459,"width":150,"height":255,"centerX":417,"centerY":586},"target":{"x":628,"y":430,"width":150,"height":245}},
+  {"id":"left-ring","file":"/assets/components/04-left-ring.png","source":{"x":500,"y":441,"width":93,"height":265,"centerX":546,"centerY":573},"target":{"x":620,"y":422,"width":92,"height":268}},
+  {"id":"left-cushion","file":"/assets/components/05-left-cushion.png","source":{"x":616,"y":421,"width":154,"height":305,"centerX":693,"centerY":573},"target":{"x":648,"y":422,"width":202,"height":300}},
+  {"id":"headband","file":"/assets/components/06-headband.png","source":{"x":587,"y":134,"width":500,"height":285,"centerX":837,"centerY":276},"target":{"x":578,"y":139,"width":520,"height":296}},
+  {"id":"right-cushion","file":"/assets/components/07-right-cushion.png","source":{"x":902,"y":423,"width":154,"height":305,"centerX":979,"centerY":575},"target":{"x":823,"y":425,"width":202,"height":298}},
+  {"id":"right-ring","file":"/assets/components/08-right-ring.png","source":{"x":1077,"y":441,"width":93,"height":265,"centerX":1123,"centerY":573},"target":{"x":960,"y":422,"width":92,"height":268}},
+  {"id":"right-driver","file":"/assets/components/09-right-driver.png","source":{"x":1190,"y":459,"width":150,"height":255,"centerX":1265,"centerY":586},"target":{"x":1032,"y":430,"width":150,"height":245}},
+  {"id":"right-hinge","file":"/assets/components/10-right-hinge.png","source":{"x":1321,"y":345,"width":104,"height":266,"centerX":1373,"centerY":478},"target":{"x":1045,"y":343,"width":64,"height":176}},
+  {"id":"right-shell","file":"/assets/components/11-right-shell.png","source":{"x":1434,"y":364,"width":176,"height":386,"centerX":1522,"centerY":557},"target":{"x":864,"y":404,"width":232,"height":356}}
+]
