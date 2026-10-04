@@ -67,3 +67,7 @@ Statut : prototype frontend fonctionnel pour présenter une animation. Le parcou
 - Le cadrage desktop est volontairement large et peut couper les pièces aux extrémités ; les captures représentent le rendu réel, sans recomposition.
 
 Pour reprendre : mesurer les performances sur mobile, optimiser les images utilisées, compléter les tests du rendu responsive, puis choisir un hébergement statique pour `dist/`. Les plans inclus expliquent l’évolution de l’essai vidéo vers l’approche par composants.
+
+## Dépôt et téléchargement
+
+[Voir le dépôt](https://github.com/cpointis96-hue/scrollscrub) · [Télécharger les sources ZIP](https://github.com/cpointis96-hue/scrollscrub/archive/HEAD.zip). Le ZIP contient les sources ; lancer la démo avec les commandes ci-dessus.
